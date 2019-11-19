@@ -7,10 +7,10 @@ This is an example repository created during the GitHub Workshop run by McMaster
 Please check out my other repositories! They will have real projects in them!
 
 Facts about me:
--I am a secomd-year Mechatronics Engineering student
--I'm super excited to be coding with all of you
--So far, I know Python, SQL, C, and C++
--Raspberry Pi and Java are my future goals
--My non-technical hobbies include reading, drawing, and playing the flute
+- I am a secomd-year Mechatronics Engineering student
+- I'm super excited to be coding with all of you
+- So far, I know Python, SQL, C, and C++
+- Raspberry Pi and Java are my future goals
+- My non-technical hobbies include reading, drawing, and playing the flute
 
 My LinkedIn is [here!](https://www.linkedin.com/in/gowri-gowda/)
