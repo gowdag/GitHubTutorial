@@ -5,8 +5,8 @@ Please check out my other repositories! They will have real projects in them!
 
 #About Me:
 Facts about me:
--I am a second-year Mechatronics Engineering student
--I am excited to code with y'all on GitHub!
--My non-technical hobbies are reading, drawing, and playing the flute
+*I am a second-year Mechatronics Engineering student
+*I am excited to code with y'all on GitHub!
+*My non-technical hobbies are reading, drawing, and playing the flute
 
 My LinkedIn is [here!](https://www.linkedin.com/in/gowri-gowda/)
